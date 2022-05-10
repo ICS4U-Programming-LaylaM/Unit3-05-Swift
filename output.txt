@@ -1,0 +1,78 @@
+First name: Layla
+Middle initial: A.
+Last name: Michel
+Grade: 12
+Student has an IEP? False
+
+First name: Ketia
+Middle initial: G.
+Last name: Kaze
+Grade: 12
+Student has an IEP? False
+
+First name: Simon
+Middle initial: O.
+Last name: Julien
+Grade: 11
+Student has an IEP? False
+
+First name: Anne
+Middle initial: S.
+Last name: Martin
+Grade: 10
+Student has an IEP? True
+
+First name: Markus
+Middle initial: J.
+Last name: Samuel
+Grade: 11
+Student has an IEP? False
+
+First name: Tristan
+Middle initial: P.
+Last name: Smith
+Grade: 9
+Student has an IEP? True
+
+First name: Layla
+Middle initial: A.
+Last name: Michel
+Grade: 12
+Student has an IEP? False
+
+First name: Ketia
+Middle initial: G.
+Last name: Kaze
+Grade: 12
+Student has an IEP? False
+
+First name: Simon
+Middle initial: O.
+Last name: Julien
+Grade: 11
+Student has an IEP? False
+
+First name: Anne
+Middle initial: S.
+Last name: Martin
+Grade: 10
+Student has an IEP? True
+
+First name: Markus
+Middle initial: J.
+Last name: Samuel
+Grade: 11
+Student has an IEP? False
+
+First name: Tristan
+Middle initial: P.
+Last name: Smith
+Grade: 9
+Student has an IEP? True
+
+First name: Tristan
+Middle initial: P.
+Last name: Smith
+Grade: null
+Student has an IEP? null
+
